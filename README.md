@@ -5,10 +5,6 @@ How to create Callbacks in Kotlin?
 </p>
 <br>
 
-<p align="center">
-Dokka: https://github.com/Kotlin/dokka
-</p>
-
 <br>
 
 <p align="center">
