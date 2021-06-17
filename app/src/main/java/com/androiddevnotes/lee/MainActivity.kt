@@ -43,6 +43,5 @@ class MainActivity : AppCompatActivity() {
 
 interface SomeCallback {
     fun onSuccess()
-
     fun onFailure(error: String)
 }
