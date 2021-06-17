@@ -47,7 +47,6 @@ class MainActivity : AppCompatActivity() {
             }
         }
 
-
         textView.setOnClickListener {
             someFunction(object : SomeCallback {
                 override fun onSuccess() {
@@ -58,10 +57,8 @@ class MainActivity : AppCompatActivity() {
                     Toast.makeText(this@MainActivity, "Inside Failure - $error", Toast.LENGTH_SHORT)
                         .show()
                 }
-
             })
         }
-
     }
 }
 
