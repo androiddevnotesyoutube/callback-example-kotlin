@@ -5,8 +5,6 @@ How to create Callbacks in Kotlin?
 </p>
 <br>
 
-<br>
-
 <p align="center">
 Video Instructions: https://youtu.be/B-vb9porLPc
 </p>
